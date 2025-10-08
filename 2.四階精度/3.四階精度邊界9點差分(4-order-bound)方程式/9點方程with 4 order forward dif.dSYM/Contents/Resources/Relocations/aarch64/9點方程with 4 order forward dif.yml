@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yetianzhong/Desktop/6.assignment code 1/2.四階精度/3.四階精度邊界9點差分(4-order-bound)方程式/9點方程with 4 order forward dif"
+relocations:     []
+...
